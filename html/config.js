@@ -67,7 +67,7 @@ const showTipList = true
 // green
 // pink
 // purple
-const theme = "orange"
+const theme = "green"
 
 // ==== WINTER UPDATE !! ==== \\
 const enableWinterUpdate = false
@@ -120,3 +120,4 @@ const localAudio = false
 // If localVideo is enabled, showYoutubeVideo is automatically disabled.
 
 // You can only import a video from either YouTube or local. Local video taking priority.
+
